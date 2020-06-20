@@ -22,7 +22,7 @@ def main():
     time and prints them.
     
     The idea is shortly this:
-        Check if input number is positive integer
+        Check if the input number is positive integer
         Repeat until you reach number 1:
             If the number is even:
                 Divide by 2
