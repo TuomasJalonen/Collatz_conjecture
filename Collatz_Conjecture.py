@@ -28,6 +28,9 @@ def main():
                 Divide by 2
             If the number is odd:
                 Multiply by 3 and add 1
+                
+    If the conjecture holds true, the result should be one for all positive 
+    integers.
 
     Returns
     -------
