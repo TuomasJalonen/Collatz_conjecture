@@ -9,7 +9,7 @@ time and prints them.
     
 The idea of the algorithm is shortly this:
 
-    Check if input number is positive integer
+    Check if the input number is positive integer
   
     Repeat until you reach number 1:
   
