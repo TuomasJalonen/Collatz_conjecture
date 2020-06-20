@@ -9,14 +9,14 @@ time and prints them.
     
 The idea of the algorithm is shortly this:
 
-  Check if input number is positive integer
+    Check if input number is positive integer
   
-  Repeat until you reach number 1:
+    Repeat until you reach number 1:
   
-    If the number is even:
-      Divide by 2
-      
-    If the number is odd:
-      Multiply by 3 and add 1
+        If the number is even:
+          Divide by 2
+
+        If the number is odd:
+          Multiply by 3 and add 1
       
 If the conjecture holds true, the result should be one for all positive integers.
