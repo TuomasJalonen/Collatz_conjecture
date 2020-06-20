@@ -18,7 +18,8 @@ import time
 
 def main():
     """
-    This function calculates the Collatz Conjecture steps and prints them.
+    This function calculates the Collatz Conjecture steps and wasted computing
+    time and prints them.
     
     The idea is shortly this:
         Check if input number is positive integer
