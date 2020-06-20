@@ -8,10 +8,14 @@ The function calculates the Collatz Conjecture steps and wasted computing
 time and prints them.
     
 The idea of the algorithm is shortly this:
+
   Check if input number is positive integer
+  
   Repeat until you reach number 1:
+  
     If the number is even:
       Divide by 2
+      
     If the number is odd:
       Multiply by 3 and add 1
       
